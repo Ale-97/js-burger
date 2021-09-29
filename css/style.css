@@ -1,7 +1,7 @@
-.container-fluid > .row > .col-6,.cavolo {
+.container-fluid > .row > .col-6,.leftPage {
     height: 100vh;
 }
-.cavolo > *{
+.leftPage > *{
     padding-left: 48px;
 }
 .bgPeach{
@@ -53,7 +53,7 @@ input + span{
     color: red;
 }
 
-#calculate-Price{
+#calculatePrice{
     border: 0;
     padding: 10px 20px;
     font-weight: bold;

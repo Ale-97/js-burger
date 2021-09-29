@@ -1,4 +1,4 @@
-var calculatePrice = document.getElementById('calculate-Price');
+var calculatePrice = document.getElementById('calculatePrice');
 
 var finalPrice = document.getElementById('price');
 
@@ -9,7 +9,7 @@ calculatePrice.addEventListener('click', function(){
 
     var resultSumInt = 5;
 
-    var checkIngredients = document.getElementsByClassName('check-Ingredients');
+    var checkIngredients = document.getElementsByClassName('checkIngredients');
 
     var priceDiscount;
 
